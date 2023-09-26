@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/P14_HRnet_React/static/css/main.287f2587.css",
+    "main.js": "/P14_HRnet_React/static/js/main.306ce1f4.js",
+    "index.html": "/P14_HRnet_React/index.html",
+    "main.287f2587.css.map": "/P14_HRnet_React/static/css/main.287f2587.css.map",
+    "main.306ce1f4.js.map": "/P14_HRnet_React/static/js/main.306ce1f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287f2587.css",
+    "static/js/main.306ce1f4.js"
+  ]
+}
