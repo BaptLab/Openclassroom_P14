@@ -68,7 +68,6 @@ const Homepage = () => {
       department: selectedDepartment.value,
     };
 
-    console.log("value being pushed inside the employees list", employee);
     //we push the new employee in the array via the dispatch
     dispatch(addEmployee(employee));
     //popup to indicate the creation of an employee
@@ -130,7 +129,6 @@ const Homepage = () => {
                 dateFormat="dd/MM/yyyy"
                 selected={birthDate}
                 onChange={(date) => {
-                  console.log();
                   setBirthDate(date);
                 }}
               />
